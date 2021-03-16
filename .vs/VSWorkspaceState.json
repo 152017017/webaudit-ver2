@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\controllers",
+    "\\application\\controllers\\admin",
+    "\\application\\models",
+    "\\application\\views",
+    "\\application\\views\\administration",
+    "\\application\\views\\templates_admin"
+  ],
+  "SelectedNode": "\\application\\libraries",
+  "PreviewInSolutionExplorer": false
+}
